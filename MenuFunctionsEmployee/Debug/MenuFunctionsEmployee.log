@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\#           iti data 2018\c and c++\lec 4\menufunctionsemployee\source.cpp(18): warning C4005: 'DELETE': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winnt.h(9107): note: see previous definition of 'DELETE'
+f:\#           iti data 2018\c and c++\lec 4\menufunctionsemployee\source.cpp(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MenuFunctionsEmployee.vcxproj -> F:\#           ITI Data 2018\C and C++\Lec 4\LineEditor\Debug\MenuFunctionsEmployee.exe
+  MenuFunctionsEmployee.vcxproj -> F:\#           ITI Data 2018\C and C++\Lec 4\LineEditor\Debug\MenuFunctionsEmployee.pdb (Partial PDB)
